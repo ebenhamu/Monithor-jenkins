@@ -57,6 +57,9 @@
       terraform:latest
       kubernetes-cli:latest
       ansible:latest
+      aws-credentials:latest
+
+      
 
     
 - name: Create JCasC configuration file
